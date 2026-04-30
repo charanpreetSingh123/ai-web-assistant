@@ -1,7 +1,11 @@
 import requests
+import os
+from dotenv import load_dotenv
 from services.memory import get_memory, add_to_memory
 
-API_KEY = "YOUR-KEY"
+load_dotenv()
+API_KEY = os.getenv("OPENROUTER_API_KEY")
+
 
 def get_response(prompt: str):
     try:
