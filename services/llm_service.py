@@ -1,7 +1,7 @@
 import requests
 from services.memory import get_memory, add_to_memory
 
-API_KEY = "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"
+API_KEY = "YOUR-KEY"
 
 def get_response(prompt: str):
     try:
