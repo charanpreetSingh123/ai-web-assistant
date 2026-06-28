@@ -165,6 +165,6 @@ B.Tech CSE — CGC University Mohali
 
 <br/>
 
-*if you Found this useful? Give it a ⭐ on GitHub *
+*if you Found this useful? Give it a ⭐ on GitHub*
 
 </div>
