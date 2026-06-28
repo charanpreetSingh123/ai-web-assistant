@@ -16,11 +16,7 @@
 **A FastAPI-powered backend that connects to a Large Language Model via OpenRouter API.**  
 Supports persistent memory, conversation history, modular architecture, and full REST API documentation via Swagger UI.
 
-<br/>
 
-[![GitHub](https://img.shields.io/badge/🚀%20View%20on%20GitHub-Repository-24292e?style=for-the-badge&logo=github)](https://github.com/charanpreetSingh123/ai-web-assistant)
-
-<br/>
 
 </div>
 
